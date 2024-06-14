@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "Overview"
-    url: "/#-overview"
+    url: "/#overview"
 
   - title: "Definitions"
-    url: "/#-definitions"
+    url: "/#definitions"
 
   - title: "Topics of Interest"
-    url: "/#-topics-of-interest"
+    url: "/#topics-of-interest"
 
   - title: "Submission Categories"
-    url: "/#-submission-categories"
+    url: "/#submission-categories"
 
   - title: "Submission Guidelines"
-    url: "/#-submission-guidelines"
+    url: "/#submission-guidelines"
     
   - title: "Important Dates"
-    url: "/#-important-dates"
+    url: "/#important-dates"
 
   - title: "Workshop Format"
-    url: "/#-workshop-format"
+    url: "/#workshop-format"
 
   - title: "Contact Information"
-    url: "/#-contact-information"
+    url: "/#contact-information"
