@@ -40,19 +40,24 @@ We welcome submissions on, but not limited to, the following topics:
 - Vision of LLM apps/stores
 - Tools/datasets for analyzing LLM app stores
 
-# Submission Categories
-
-**Position Papers (1-4 pages including references):** well-argued position or work in progress.
-
-**Research Papers (8 pages including references):** technical research, experience reports, empirical studies, etc.
-
 # Submission Guidelines
+
+We welcome the following two types of submissions:
+
+- **Position Papers (1-4 pages including references):** Well-argued position or work in progress.
+- **Research Papers (8 pages including references):** Technical research, experience reports, empirical studies, etc.
+
+## Requirements
 
 - All submissions must be original and not under review elsewhere.
 - Submissions must conform to the IEEE conference proceedings template, specified in the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt type). LaTeX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc` or `compsocconf` options.
 - Papers must be submitted via the HotCRP submission system ([Submission URL]) by [Submission Deadline].
 - The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of ICSE 2025. The official publication date affects the deadline for any patent filings related to published work.
+
+## Review Process
+
 - Submissions will be peer-reviewed by at least three members of the program committee. Evaluation criteria include originality, relevance, technical soundness, and clarity of presentation.
+
 
 # Important Dates
 
@@ -60,13 +65,6 @@ We welcome submissions on, but not limited to, the following topics:
 - **Notification of Acceptance:** [Notification Date]
 - **Camera-Ready Papers Due:** [Camera-Ready Deadline]
 - **Workshop Date:** April 28, 2025
-
-# Workshop Format
-
-- **Lightning Talks:** Brief presentations followed by discussions.
-- **Keynotes:** Expert speakers on the latest trends and future directions.
-- **Panel-like Discussions:** Interactive panels with industry leaders and researchers.
-- **Collaborative Roadmap Session:** Developing a roadmap for LLM app store analysis.
 
 # Contact Information
 
