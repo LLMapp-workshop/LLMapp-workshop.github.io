@@ -7,19 +7,19 @@ main:
     url: "/#-definitions"
 
   - title: "Topics of Interest"
-    url: "/#-topics"
+    url: "/#-topics-of-interest"
 
   - title: "Submission Categories"
-    url: "/#-categories"
+    url: "/#-submission-categories"
 
   - title: "Submission Guidelines"
-    url: "/#-guidelines"
+    url: "/#-submission-guidelines"
     
   - title: "Important Dates"
-    url: "/#-dates"
+    url: "/#-important-dates"
 
   - title: "Workshop Format"
-    url: "/#-format"
+    url: "/#-workshop-format"
 
   - title: "Contact Information"
-    url: "/#-contact"
+    url: "/#-contact-information"
