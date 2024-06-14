@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='Overview'></span>
-# Workshop Overview
+<span class='anchor' id='-overview'></span>
+# Overview
 
 The 1st International Workshop on LLM App Store Analysis (LLMapp 2025) invites submissions that explore various aspects of large language model (LLM) app stores. This workshop aims to bring together researchers, industry practitioners, and students to discuss the latest trends, challenges, and future directions in LLM app ecosystems.
 
@@ -52,6 +52,7 @@ We welcome submissions on, but not limited to, the following topics:
 - Submissions must conform to the IEEE conference proceedings template, specified in the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt type). LaTeX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the `compsoc` or `compsocconf` options.
 - Papers must be submitted via the HotCRP submission system ([Submission URL]) by [Submission Deadline].
 - The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of ICSE 2025. The official publication date affects the deadline for any patent filings related to published work.
+- Submissions will be peer-reviewed by at least three members of the program committee. Evaluation criteria include originality, relevance, technical soundness, and clarity of presentation.
 
 # Important Dates
 
@@ -59,10 +60,6 @@ We welcome submissions on, but not limited to, the following topics:
 - **Notification of Acceptance:** [Notification Date]
 - **Camera-Ready Papers Due:** [Camera-Ready Deadline]
 - **Workshop Date:** April 28, 2025
-
-# Review Process
-
-Submissions will be peer-reviewed by at least three members of the program committee. Evaluation criteria include originality, relevance, technical soundness, and clarity of presentation.
 
 # Workshop Format
 
