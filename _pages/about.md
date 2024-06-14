@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='-overview'></span>
+
 # Overview
 
 The 1st International Workshop on LLM App Store Analysis (LLMapp 2025) invites submissions that explore various aspects of large language model (LLM) app stores. This workshop aims to bring together researchers, industry practitioners, and students to discuss the latest trends, challenges, and future directions in LLM app ecosystems.
