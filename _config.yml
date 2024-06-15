@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "LLMapp 2025"
-  avatar           :
+  avatar           : "images/logo.png"
   bio              : "The 1st International Workshop on LLM App Store Analysis"
   location         : "Co-located with ICSE 2025"
   employer         :
