@@ -16,7 +16,7 @@ The 1st International Workshop on LLM App Store Analysis (LLMapp 2025) invites s
 LLMs are trained on vast amounts of text data, allowing them to perform a wide range of natural language processing tasks. The advent of LLMs has opened up new possibilities for various applications, including chatbots, content generation, language translation, and sentiment analysis.
 As the capabilities of LLMs continue to expand, there has been a growing interest in making these models accessible to a broader audience. This has led to the emergence of LLM app stores, such as [OpenAI's GPT Store](https://chat.openai.com/gpts), [Quora's Poe](https://poe.com/explore), [ByteDance's Coze](https://www.coze.com/), and [FlowGPT](https://flowgpt.com/). These platforms provide a centralized marketplace where users can browse, download, and use LLM-based apps across various domains, such as productivity, education, entertainment, and personal assistance.
 
-# Definitions
+## Definitions
 
 - **LLM app**: A specialized application (app) powered by an LLM, distinct from conventional mobile apps that may incorporate LLM technology. These apps, typically found on platforms like GPT Store, Poe, Coze, and FlowGPT, are specifically designed to harness the advanced capabilities of LLMs for a variety of purposes, tasks, or scenarios. 
 - **LLM app store**: A centralized platform that hosts, curates, and distributes LLM apps, enabling users to discover and access tailored intelligent services.
