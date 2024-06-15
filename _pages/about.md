@@ -11,7 +11,7 @@ redirect_from:
 
 # Overview
 
-The 1st International Workshop on LLM App Store Analysis (LLMapp 2025) invites submissions that explore various aspects of large language model (LLM) app stores. This workshop aims to bring together researchers, industry practitioners, and students to discuss the latest trends, challenges, and future directions in LLM app ecosystems.
+The 1st International Workshop on LLM App Store Analysis (LLMapp 2025), co-located with [ICSE 2025](https://conf.researchr.org/home/icse-2025) at Ottawa, Ontario, Canada, invites submissions that explore various aspects of large language model (LLM) app stores. This workshop aims to bring together researchers, industry practitioners, and students to discuss the latest trends, challenges, and future directions in LLM app ecosystems.
 
 LLMs are trained on vast amounts of text data, allowing them to perform a wide range of natural language processing tasks. The advent of LLMs has opened up new possibilities for various applications, including chatbots, content generation, language translation, and sentiment analysis.
 As the capabilities of LLMs continue to expand, there has been a growing interest in making these models accessible to a broader audience. This has led to the emergence of LLM app stores, such as [OpenAI's GPT Store](https://chat.openai.com/gpts), [Quora's Poe](https://poe.com/explore), [ByteDance's Coze](https://www.coze.com/), and [FlowGPT](https://flowgpt.com/). These platforms provide a centralized marketplace where users can browse, download, and use LLM-based apps across various domains, such as productivity, education, entertainment, and personal assistance.
