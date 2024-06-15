@@ -3,9 +3,6 @@ main:
   - title: "Overview"
     url: "/#overview"
 
-  - title: "Definitions"
-    url: "/#definitions"
-
   - title: "Topics of Interest"
     url: "/#topics-of-interest"
 
