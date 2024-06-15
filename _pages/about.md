@@ -70,6 +70,6 @@ We welcome the following two types of submissions:
 
 If you have any further questions or require assistance, please do not hesitate to contact us at [LLMapp.workshop@gmail.com](mailto:LLMapp.workshop@gmail.com). We are happy to assist with any inquiries regarding the workshop or your participation.
 
-<img align="center" width=300px alt="Unicorn" src="http://LLMapp-workshop.github.io/images/llmapp.png"/>
+<img align="center" width=600px alt="Unicorn" src="http://LLMapp-workshop.github.io/images/llmapp.png"/>
 <br>
 <br>
