@@ -20,6 +20,8 @@ As the capabilities of LLMs continue to expand, there has been a growing interes
 
 - **LLM app**: A specialized application (app) powered by an LLM, distinct from conventional mobile apps that may incorporate LLM technology. These apps, typically found on platforms like GPT Store, Poe, Coze, and FlowGPT, are specifically designed to harness the advanced capabilities of LLMs for a variety of purposes, tasks, or scenarios. 
 - **LLM app store**: A centralized platform that hosts, curates, and distributes LLM apps, enabling users to discover and access tailored intelligent services.
+  
+<img align="center" width=600px alt="Unicorn" src="http://LLMapp-workshop.github.io/images/llmapp.png"/>
 
 # Topics of Interest
 
